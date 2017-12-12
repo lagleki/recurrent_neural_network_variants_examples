@@ -1,4 +1,4 @@
-##Implementation of RNN and its' variants
+## Implementation of RNN and its' variants
 
 Currently Implemented Papers:
 
