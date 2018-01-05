@@ -3,7 +3,7 @@
 Currently Implemented Papers:
 * [Quasi-Recurrent Neural Networks](https://arxiv.org/pdf/1611.01576.pdf) James Bradbury, Stephen Merity, Caiming Xiong, Richard Socher
 * [Skip RNN: Learning to Skip State Updates in Recurrent Neural Networks](https://arxiv.org/abs/1708.06834)
-* [Training RNNs as fast as CNNs](https://arxiv.org/pdf/1709.02755)
+* [Training RNNs as fast as CNNs](https://arxiv.org/pdf/1709.02755)[code](https://github.com/taolei87/sru)
 * [Kronecker Highway RNN](https://arxiv.org/pdf/1705.10142.pdf)
 * [Delta RNN](https://arxiv.org/pdf/1703.08864.pdf)
 * [Highway Networks](https://arxiv.org/abs/1505.00387)
